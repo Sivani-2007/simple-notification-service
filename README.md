@@ -14,6 +14,9 @@ This is a mini project demonstrating how to build a notification system using AW
 2. CloudWatch triggers an alarm when a condition is met.
 3. The alarm sends a notification through SNS.
 4. The message is delivered to subscribers and stored in SQS.
+   
+## Architecture Diagram
+![Architecture Diagram](architecture-diagram.png)
 
 ## Conclusion
 This project shows how AWS cloud services can work together to create a scalable and reliable notification system.
